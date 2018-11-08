@@ -1,0 +1,16 @@
+{
+  "_id": "page.start",
+  "_type": "page.start",
+  "body": "A simple form to capture feedback about today’s Show The Thing",
+  "heading": "Show The Thing demo",
+  "lede": "It’s Thursday, it’s 4 o’clock (or thereabouts), it’s…",
+  "steps": [
+    "page.you",
+    "page.speakers",
+    "page.mood",
+    "page.overtime",
+    "page.check",
+    "page.thanks"
+  ],
+  "url": "/"
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "service",
+  "_type": "config.service",
+  "code": "STT",
+  "defaultCCAddress": "email",
+  "emailCitizenSubject": "Your STT feedback has been submitted",
+  "emailCitizenTemplate": "Your feedback has been submitted.\r\n\r\n{mood, select, grouchy{We’re really sorry that Rob was in a grouchy mood.} other{We're pleased to hear that Rob was feeling fluffy.}}",
+  "emailTeamSubject": "STT feedback - {name}",
+  "emailTeamTemplate": "Please find the feedback for the latest Show the thing attached.",
+  "name": "Show The Thing demo",
+  "phase": "alpha",
+  "phaseText": "Um, your feedback on this feedback service would be appreciated",
+  "title": "Show The Thing feedback"
+}

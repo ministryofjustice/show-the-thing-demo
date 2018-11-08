@@ -1,0 +1,20 @@
+{
+  "_id": "page.you",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.you--text.name",
+      "_type": "text",
+      "label": "Your name",
+      "name": "name"
+    },
+    {
+      "_id": "page.you--email.email",
+      "_type": "email",
+      "label": "Your email address",
+      "name": "email"
+    }
+  ],
+  "heading": "About you",
+  "url": "you"
+}

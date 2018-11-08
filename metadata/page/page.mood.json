@@ -1,0 +1,27 @@
+{
+  "_id": "page.mood",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.mood--radios.mood",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.mood--radios.mood--radio.grouchy",
+          "_type": "radio",
+          "label": "Grouchy",
+          "value": "grouchy"
+        },
+        {
+          "_id": "page.mood--radios.mood--radio.fluffy",
+          "_type": "radio",
+          "label": "Fluffy",
+          "value": "fluffy"
+        }
+      ],
+      "legend": "What sort of mood is Rob in today?",
+      "name": "mood"
+    }
+  ],
+  "url": "mood"
+}

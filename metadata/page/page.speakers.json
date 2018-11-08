@@ -1,0 +1,29 @@
+{
+  "_id": "page.speakers",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.speakers--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.speakers--fieldset--text.name",
+          "_type": "text",
+          "label": "Name",
+          "name": "name"
+        },
+        {
+          "_id": "page.speakers--fieldset--textarea.comments",
+          "_type": "textarea",
+          "label": "Comments",
+          "name": "comments"
+        }
+      ],
+      "legend": "Speaker",
+      "model": "speaker",
+      "repeatable": true,
+      "repeatableHeading": "What did you think of the sessions?"
+    }
+  ],
+  "url": "speakers"
+}

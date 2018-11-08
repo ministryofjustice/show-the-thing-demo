@@ -1,0 +1,8 @@
+{
+  "_id": "page.thanks",
+  "_type": "page.confirmation",
+  "body": "{mood, select, grouchy{Maybe Rob will be fluffy next week?} other{Isn't it great when Rob is feeling fluffy?}}",
+  "heading": "Thank you",
+  "lede": "We’ve sent your feedback to STT and a copy to {email}.",
+  "url": "thanks"
+}
