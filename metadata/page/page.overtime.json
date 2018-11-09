@@ -24,7 +24,7 @@
       "show": {
         "identifier": "mood",
         "operator": "is",
-        "value": "grouchy"
+        "value": "grouchy@alex.fu2k.org"
       }
     }
   ],

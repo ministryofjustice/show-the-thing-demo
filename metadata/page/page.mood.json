@@ -10,13 +10,13 @@
           "_id": "page.mood--radios.mood--radio.grouchy",
           "_type": "radio",
           "label": "Grouchy",
-          "value": "grouchy"
+          "value": "grouchy@alex.fu2k.org"
         },
         {
           "_id": "page.mood--radios.mood--radio.fluffy",
           "_type": "radio",
           "label": "Fluffy",
-          "value": "fluffy"
+          "value": "fluffy@alex.fu2k.org"
         }
       ],
       "legend": "What sort of mood is Rob in today?",
